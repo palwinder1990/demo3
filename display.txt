@@ -1,0 +1,10 @@
+if (n==1)
+  print("Days of week are")
+  print("Sun")
+  print("Mon")
+  print("Tue")
+  print("Wed")
+  print("Thursday")
+  print("friday")
+  print("Sat")
+  
